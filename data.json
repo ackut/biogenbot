@@ -2,6 +2,5 @@
   "name": "Liquid RUB",
   "description": "Liquid Token for Liquid RUB",
   "symbol": "RUBL",
-  "decimals": "6",
   "image": "https://github.com/ackut/biogenbot/blob/main/RUBL.jpg?raw=true"
 }
